@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Compliance-Weighted Consensus: reproducibility pipeline"
+authors:
+  - family-names: Alam
+    given-names: Shadab
+    affiliation: "Department of Computer Science, College of Engineering and Computer Science, Jazan University"
+  - family-names: Masmali
+    given-names: Feisal Hadi
+    affiliation: "Department of Management Information Systems, College of Business, Jazan University"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Compliance-Weighted Consensus: An IoT-Enhanced Hybrid Blockchain for Carbon-Compliant Fresh Food Supply Chains"
+  authors:
+    - family-names: Alam
+      given-names: Shadab
+    - family-names: Masmali
+      given-names: Feisal Hadi
+  journal: "Systems"
+  year: 2026
+  # doi: 10.3390/xxxxxxx   # add once published

@@ -1,0 +1,15 @@
+{
+  "deploy_EmissionTracker": 1026208,
+  "deploy_CreditAuction": 689136,
+  "enroll_org": 69506,
+  "escrow_deposit": 43474,
+  "recordAnchor": 70838,
+  "settleBatch_compliant_8_tuples": 134023,
+  "settleBatch_violation_8_tuples": 135730,
+  "settleBatch_compliant_64_tuples": 135356,
+  "_check_unanchored_reverts": 1,
+  "_check_tampered_reverts": 1,
+  "auction_open": 212647,
+  "auction_bid_clear": 80543,
+  "_score_after_60kg_excess_1e6": 49854
+}
