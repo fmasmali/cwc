@@ -3,8 +3,7 @@
 Code and data for the paper:
 
 > **Compliance-Weighted Consensus: An IoT-Enhanced Hybrid Blockchain for Carbon-Compliant Fresh Food Supply Chains**
-> Shadab Alam and Feisal Hadi Masmali, Jazan University, Saudi Arabia.
-> Submitted to *Systems* (MDPI).
+> Feisal Hadi Masmali, Jazan University, Saudi Arabia.
 
 This repository reproduces every quantitative result, table, and figure in the
 evaluation (Sections 6.4–6.6 and Appendix tables): the discrete-event simulation
